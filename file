@@ -1,0 +1,1 @@
+plot "C:/Users/ֵֿÊְ/Desktop/קל/1/Project1/lagrange_not_evenly_grid.txt" using 1:2 title "Exact" with lines, "C:/Users/ֵֿÊְ/Desktop/קל/1/Project1/spline.txt" using 1:2 title "Spline" with lines; pause mouse keypress
